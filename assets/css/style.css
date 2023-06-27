@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    -ms-flex-align: stretch;
+}
+body {
+    background-color: #464646;
+    color: #FFF0F5;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+}
+
+.header{
+   
+    margin: 50px;
+    padding:10px;
+    float: center;
+    background-image: url("../images/20220617_202443.jpg");
+    color: purple;
+
+}
+
+.nav{
+    padding:15px;
+}
+
+.div{
+    display: "flexbox";
+}
+
+section {
+    margin: 50px;
+}
